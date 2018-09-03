@@ -1,0 +1,45 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Agenda\UI\bin\Debug\UI.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Agenda\UI\bin\Debug\UI.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Agenda\UI\bin\Debug\UI.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Agenda\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Agenda\UI\obj\Debug\UI.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Agenda\UI\obj\Debug\UI.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Agenda\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\Agenda\UI\obj\Debug\UI.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Agenda\UI\obj\Debug\UI.pdb
+C:\Users\Aluno\Desktop\Agenda\UI\bin\Debug\UI.exe.config
+C:\Users\Aluno\Desktop\Agenda\UI\obj\Debug\UI.exe
+C:\Users\Aluno\Desktop\Agenda\UI\obj\Debug\UI.pdb
+C:\Users\Aluno\Desktop\Agenda\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Agenda\UI\obj\Debug\UI.frmCadastro.resources
+C:\Users\Aluno\Desktop\Agenda\UI\obj\Debug\UI.frmConsulta.resources
+C:\Users\Aluno\Desktop\Agenda\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Agenda\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Agenda\UI\bin\Debug\UI.exe
+C:\Users\Aluno\Desktop\Agenda\UI\bin\Debug\UI.pdb
+C:\Users\Aluno\Desktop\Agenda\UI\bin\Debug\BLL.dll
+C:\Users\Aluno\Desktop\Agenda\UI\bin\Debug\DTO.dll
+C:\Users\Aluno\Desktop\Agenda\UI\bin\Debug\DAL.dll
+C:\Users\Aluno\Desktop\Agenda\UI\bin\Debug\BLL.pdb
+C:\Users\Aluno\Desktop\Agenda\UI\bin\Debug\DTO.pdb
+C:\Users\Aluno\Desktop\Agenda\UI\bin\Debug\DAL.pdb
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\obj\Debug\UI.frmCadastro.resources
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\obj\Debug\UI.exe
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\obj\Debug\UI.pdb
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\bin\Debug\UI.exe.config
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\bin\Debug\UI.exe
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\bin\Debug\UI.pdb
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\bin\Debug\BLL.dll
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\bin\Debug\DTO.dll
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\bin\Debug\DAL.dll
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\bin\Debug\BLL.pdb
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\bin\Debug\DTO.pdb
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\bin\Debug\DAL.pdb
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\obj\Debug\UI.frmProduto.resources
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\obj\Debug\UI.frmImrpimir.resources
+C:\Users\danie\OneDrive\Documentos\Agenda\UI\obj\Debug\UI.frmPedidos.resources

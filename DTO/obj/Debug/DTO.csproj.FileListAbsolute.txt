@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\Agenda\DTO\bin\Debug\DTO.dll
+C:\Users\Aluno\Desktop\Agenda\DTO\bin\Debug\DTO.pdb
+C:\Users\Aluno\Desktop\Agenda\DTO\obj\Debug\DTO.dll
+C:\Users\Aluno\Desktop\Agenda\DTO\obj\Debug\DTO.pdb
+C:\Users\danie\OneDrive\Documentos\Agenda\DTO\bin\Debug\DTO.dll
+C:\Users\danie\OneDrive\Documentos\Agenda\DTO\bin\Debug\DTO.pdb
+C:\Users\danie\OneDrive\Documentos\Agenda\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\Documentos\Agenda\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\Agenda\DTO\obj\Debug\DTO.dll
+C:\Users\danie\OneDrive\Documentos\Agenda\DTO\obj\Debug\DTO.pdb
